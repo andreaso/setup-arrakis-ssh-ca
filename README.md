@@ -9,5 +9,5 @@ Unless you happen to be [@andreaso](https://github.com/andreaso) that is likely 
 ```yaml
 steps:
   - name: Configure arrakis.se host CA
-    uses: andreaso/setup-arrakis-ssh-ca@v1
+    uses: andreaso/setup-arrakis-ssh-ca@v2
 ```
